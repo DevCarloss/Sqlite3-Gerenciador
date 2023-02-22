@@ -1,6 +1,7 @@
 # Info
 
-Um Gerenciador de Banco de Dados Com Ele Você Pode<br>
+Funcões<br>
+
 Criar Banco De Dados<br>
 Adicionar Tabelas e Colunas<br>
 Adicionar Valores<br>
