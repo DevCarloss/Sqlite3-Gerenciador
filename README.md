@@ -15,4 +15,4 @@ O formato de arquivo SQLite é estável, multiplataforma e compatível com vers�
 
 O código-fonte SQLite está em domínio público e é gratuito para todos para usar para qualquer finalidade.<br>
 
-Versão mais recente
+Para Mais Informações: https://www.sqlite.org/index.html
