@@ -1,6 +1,6 @@
 # Info
 
-Funcões<br>
+Funcões Desse Gerenciador:<br>
 
 Criar Banco De Dados<br>
 Adicionar Tabelas e Colunas<br>
